@@ -1,0 +1,1 @@
+// 	Identificar comandos, botões e seleções
